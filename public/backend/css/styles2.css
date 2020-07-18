@@ -1,0 +1,80 @@
+body{
+	padding-top: 0px !important;
+}
+
+h3{
+	color: white;
+}
+.haed-top{
+	background: #222222 !important;
+	color: #fff;
+	margin-top: 0px;
+	text-align: center;
+}
+
+.loge a{
+	font-size: 20px;
+    color: #e81010;
+    line-height: 4em;
+}
+
+.loge a:hover{
+	text-decoration: none;
+}
+
+.title{
+	margin-top: 40px;
+	margin-bottom: 50px;
+	font-weight: bold;
+	color: black;
+}
+
+.content{
+	    border: 1px solid black;
+    	margin-top: 6em;
+    	padding-bottom: 3em;
+}
+
+.ad-content{
+	height: 900px;
+}
+
+.content-left{
+	background-color:#f2f2f2!important;
+    height: 100%;
+}
+
+.active a{
+	color:white !important;
+    background-color: #337ab7;
+}
+
+.content-right{
+    height: 100%;
+}
+
+.content-right h4{
+	font-size: 25px;
+	padding-bottom: 2em;
+}
+
+.content-right .one{
+	margin-bottom: 2em;
+}
+
+.content-right .one  span{
+	font-size: 3em;
+	color: white;
+}
+
+.content-right .two span{
+	font-size: 3em;
+	color: white;
+}
+
+.form-group .mieuta{
+	width: 	100%;
+	height: 7em;
+}
+
+
